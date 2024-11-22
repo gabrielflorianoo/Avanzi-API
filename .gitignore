@@ -1,3 +1,7 @@
+categories.json
+departments.json
+products.json
+
 # Logs
 logs
 *.log
@@ -22,6 +26,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-./src/api/data
-./src/api/data/*
