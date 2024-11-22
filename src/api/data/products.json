@@ -41386,5 +41386,3167 @@
       "produto": "Cerejas em Calda Gran Valle 140G",
       "preco": "R$ 17,30"
     }
+  ],
+  "paes": [
+    {
+      "produto": "Pão Francês      Kg",
+      "preco": "R$ 12,90 kg"
+    },
+    {
+      "produto": "Pão de Forma Premium Panco 500g",
+      "preco": "R$ 9,35"
+    },
+    {
+      "produto": "Bisnaguinha Panco 300g",
+      "preco": "R$ 8,45"
+    },
+    {
+      "produto": "Bisnaguito Pullman Pacote 300g",
+      "preco": "R$ 9,65"
+    },
+    {
+      "produto": "Pão de Forma Pullman 480g",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Pão de Forma Seven Boys Trad 450g",
+      "preco": "R$ 7,65"
+    },
+    {
+      "produto": "Bisnaguinha Seven Boys",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Pão de Milho Panco 500g",
+      "preco": "R$ 10,85"
+    },
+    {
+      "produto": "Pão Sovado Panco 500g",
+      "preco": "R$ 13,85"
+    },
+    {
+      "produto": "Pão de Forma 38% Integral Wickbold 450g",
+      "preco": "R$ 9,49"
+    },
+    {
+      "produto": "Pão de Forma Tradicional Bauducco 390g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Pão de Forma Panco Premium Júnior Pacote 350g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Pão de Milho Seven Boys 450g",
+      "preco": "R$ 11,75"
+    },
+    {
+      "produto": "Pão Hot Dog Mini Rufini 350g",
+      "preco": "R$ 8,55"
+    },
+    {
+      "produto": "Pão de Ovo Panco Egg Sponge Pacote 250g",
+      "preco": "R$ 12,65"
+    },
+    {
+      "produto": "Pão de Forma 35% Integral Macio D+ Visconti 400g",
+      "preco": "R$ 6,59"
+    },
+    {
+      "produto": "Pão de Coco Panco 350g",
+      "preco": "R$ 11,79"
+    },
+    {
+      "produto": "Pão de Forma 36% Integral Bauducco 390g",
+      "preco": "R$ 8,25"
+    },
+    {
+      "produto": "Pão de Forma Artesano Integral Pullman 500g",
+      "preco": "R$ 14,09"
+    },
+    {
+      "produto": "Pão Integral Maçã Canela E Passas Wickbold 450g",
+      "preco": "R$ 12,90"
+    },
+    {
+      "produto": "Pão Integral Wickbold Grão Sabor 18 Grãos 500g",
+      "preco": "R$ 12,90"
+    },
+    {
+      "produto": "Pão de Forma 30% Integral Pullman 480g",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Pão Tradicional Natural Life sem Glúten Kodilar 220G",
+      "preco": "R$ 15,55"
+    },
+    {
+      "produto": "Pão de Forma 100% Nutrição Sabor Grãos Girassol E Castanha 58,6% de Cereais Integrais Wickbold  350g",
+      "preco": "R$ 12,25"
+    },
+    {
+      "produto": "Pão de Hamburguer Wickbrioche do Forno 300g",
+      "preco": "R$ 11,39"
+    },
+    {
+      "produto": "Pão Sovadinho Panco Baunilha Pacote 250g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Pão Australiano Integral do Forno Wickbold 500g",
+      "preco": "R$ 10,70"
+    },
+    {
+      "produto": "Pão de Forma Leite Panco",
+      "preco": "R$ 9,90"
+    },
+    {
+      "produto": "Pão de Forma Sabores do Mundo Sabor Azeite com Ervas Finas Panco 380G",
+      "preco": "R$ 11,30"
+    },
+    {
+      "produto": "Pão Integral Romã com Castanha e Quinoa Embalagem 480G",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Pão Forma Grãos Sabor Castanha e Quinoa Wickbold 350g",
+      "preco": "R$ 14,10"
+    },
+    {
+      "produto": "Bisnaguinha 30% Integral Panco 300g",
+      "preco": "R$ 8,19"
+    },
+    {
+      "produto": "Pão Integralcastanha e Noze Seven Boys 450g",
+      "preco": "R$ 14,35"
+    },
+    {
+      "produto": "Pão Integral Multigrãos Chia E Macadâmia Wickbold 350g",
+      "preco": "R$ 14,10"
+    },
+    {
+      "produto": "Pão de Forma Seven Boys 7 Grãos Benefice Pacote 400g",
+      "preco": "R$ 12,20"
+    },
+    {
+      "produto": "Pão de Forma 100% Saudável Castanhas Brasileiras Panco 380G",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão de Forma 30% Integral Panco Pacote 500g",
+      "preco": "R$ 9,49"
+    },
+    {
+      "produto": "Pão de Forma Panco Manteiga Júnior Pacote 350g",
+      "preco": "R$ 7,45"
+    },
+    {
+      "produto": "Wrap Wickbold 270g Ta Pronto Proteina",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão de Forma Zero Tradicional 5 Wickbold 350g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Pão Integral 12 Grãos Pullman 450g",
+      "preco": "R$ 15,39"
+    },
+    {
+      "produto": "Pão 100% Integral Couve Hortelã Abacaxi Chia Panco 380g",
+      "preco": "R$ 12,35"
+    },
+    {
+      "produto": "Pão Jacaré Romã Embalagem 450G",
+      "preco": "R$ 8,35"
+    },
+    {
+      "produto": "Pão Panco Vida 100% 380g, C.par/lin",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão Integral Panco Vida Pacote 380g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão Panco Forma Zero 500g",
+      "preco": "R$ 11,59"
+    },
+    {
+      "produto": "Pão Caseiro Romã Embalagem 450G",
+      "preco": "R$ 8,35"
+    },
+    {
+      "produto": "Pão Estar Leve Iogurte com Cenoura Wickbold 370G",
+      "preco": "R$ 12,25"
+    },
+    {
+      "produto": "Pão de Queijo Tradicional Alcobaça 250G",
+      "preco": "R$ 6,59"
+    },
+    {
+      "produto": "Pão de Leite Romã Embalagem 400G",
+      "preco": "R$ 7,59"
+    },
+    {
+      "produto": "Pão de Forma 100% Saudável 15 Grãos Panco 380g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão Integral Seven Boys 12 Grãos 450G",
+      "preco": "R$ 14,35"
+    },
+    {
+      "produto": "Pão Integral Romã 13 Grãos Embalagem 480G",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Pão de Forma 7 Grãos Light Benefice Seven Boys 400g",
+      "preco": "R$ 12,20"
+    },
+    {
+      "produto": "Pão de Forma Vida 100% Ômega 3 Panco 380G",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão de Hambúrguer Com Gergelim Roma 250g",
+      "preco": "R$ 6,59"
+    },
+    {
+      "produto": "Pão para Hot Dog Romã 6 Un Embalagem 400G",
+      "preco": "R$ 7,59"
+    },
+    {
+      "produto": "Rosquinha da Vovô",
+      "preco": "R$ 14,90 kg"
+    },
+    {
+      "produto": "Pão para Hambúrguer Romã Embalagem 400G",
+      "preco": "R$ 7,59"
+    },
+    {
+      "produto": "Broinha de Fubá",
+      "preco": "R$ 16,90 kg"
+    },
+    {
+      "produto": "Pão Romã 450G Melão",
+      "preco": "R$ 8,35"
+    },
+    {
+      "produto": "Bisnaguinhas Romã 320G",
+      "preco": "R$ 6,45"
+    }
+  ],
+  "fermentos": [
+    {
+      "produto": "Fermento Químico em Pó Royal 100gr",
+      "preco": "R$ 4,15"
+    },
+    {
+      "produto": "Fermento em Pó Fermix Biologico Dona Benta Sachê 10g",
+      "preco": "R$ 1,05"
+    },
+    {
+      "produto": "Fermento em Pó Royal 250gr",
+      "preco": "R$ 10,39"
+    },
+    {
+      "produto": "Fermento em Pó Quimico Tradicional Dona Benta 100g",
+      "preco": "R$ 3,85"
+    },
+    {
+      "produto": "Fermento em Pó Químico Dr. Oetker 100g",
+      "preco": "R$ 4,35"
+    },
+    {
+      "produto": "Fermento Apti em Pó Químico 100g",
+      "preco": "R$ 3,29"
+    },
+    {
+      "produto": "Fermento Pão&Pizza Fleischmann 10g",
+      "preco": "R$ 1,95"
+    },
+    {
+      "produto": "Fermento Fleischmann Super 13g",
+      "preco": "R$ 2,99"
+    },
+    {
+      "produto": "Fermento Biológico Apti Embalagem 10G",
+      "preco": "R$ 1,15"
+    }
+  ],
+  "confeitaria": [
+    {
+      "produto": "Mistura para Bolo de Chocolate Apti Sachê 400g",
+      "preco": "R$ 4,70"
+    },
+    {
+      "produto": "Mistura para Bolo Floresta Negra Apti Pacote 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Casquinha para Sorvete Marvi Crocante Caixa 138g",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Mistura para Bolo Apti Abacaxi Embalagem 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo Chocolate com Avelã Dona Benta 450g",
+      "preco": "R$ 6,89"
+    },
+    {
+      "produto": "Mistura para Bolo Sabor Laranja Apti 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo Globo Laranja 400G",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Mistura para Bolo Baunilha Apti 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo de Chocolate Globo 400G",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Mistura para Bolo de Churros Oetker 450g",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Mistura para Bolo Globo Brigadeiro 400G",
+      "preco": "R$ 4,35"
+    },
+    {
+      "produto": "Biscoito Pão de Mel Kg",
+      "preco": "R$ 29,50 kg"
+    },
+    {
+      "produto": "Mistura para Bolo de Laranja Dona Benta 450g",
+      "preco": "R$ 5,79"
+    },
+    {
+      "produto": "Mistura para Bolo Aerado Chocolate Fleischmann Meu Bolo Sachê 390g",
+      "preco": "R$ 7,90"
+    },
+    {
+      "produto": "Mistura para Bolinho de Chuva Apti Tradicional 300g",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Mistura para Bolo de Baunilha Dona Benta 450g",
+      "preco": "R$ 5,79"
+    },
+    {
+      "produto": "Mistura para Bolo Globo Cenoura 400G",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Mistura para Bolo Apti Milho Embalagem 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo de Coco Dona Benta 450g",
+      "preco": "R$ 5,79"
+    },
+    {
+      "produto": "Mistura para Bolo Apti Petit Gateau Embalagem 400g",
+      "preco": "R$ 7,20"
+    },
+    {
+      "produto": "Mistura para Pão de Queijo Apti 250g",
+      "preco": "R$ 6,85"
+    },
+    {
+      "produto": "Mistura para Bolo Aipim Cremoso Dr.Oetker 400G",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Sobremesa Nestle Chandelle Chantilly Chocolate 180g 2 Unidades ",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Mistura para Bolo Apti Cenoura Embalagem 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo de Cenoura Dona Benta 450g",
+      "preco": "R$ 5,79"
+    },
+    {
+      "produto": "Mistura Panqueca Americana Apti Sachê 220G",
+      "preco": "R$ 4,75"
+    },
+    {
+      "produto": "Mistura para Bolo Sabor Cheesecake Fleischmann 390g",
+      "preco": "R$ 6,49 R$ 7,90"
+    },
+    {
+      "produto": "Mistura Bolo Sabor Limão Fleischmann 390g",
+      "preco": "R$ 7,90"
+    },
+    {
+      "produto": "Mistura para Bolo Festa Dona Benta 450g",
+      "preco": "R$ 5,79"
+    },
+    {
+      "produto": "Mistura para Bolo de Cenoura-Up Fleischmann 390g",
+      "preco": "R$ 7,90"
+    },
+    {
+      "produto": "Mistura para Bolo Sabor Festa Apti 400G",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo Tradicional Laranja Dr. Oetker 400g",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Mistura para Bolo de Milho Cremoso Dr. Oetker 400g",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Biscoito Prestígio Kg",
+      "preco": "R$ 29,50 kg"
+    },
+    {
+      "produto": "Mistura para Bolo Aerado Chocolate Sabor E Nutrição Adoce do Seu Jeito Fleischmann 230g",
+      "preco": "R$ 7,90"
+    },
+    {
+      "produto": "Mistura para Pão de Queijo Apti Parmesão Embalagem 250G",
+      "preco": "R$ 6,85"
+    },
+    {
+      "produto": "Mistura para Pão de Queijo Kodilar Pacote 250G",
+      "preco": "R$ 6,55"
+    },
+    {
+      "produto": "Mistura para Bolo Sabor Limão Apti 400G",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Bolo Apti Coco Embalagem 400g",
+      "preco": "R$ 4,59"
+    },
+    {
+      "produto": "Mistura para Flan Sabor Baunilha Atalaia 40G",
+      "preco": "R$ 2,45"
+    },
+    {
+      "produto": "Biscoito Ouro Branco e Preto",
+      "preco": "R$ 29,50 kg"
+    },
+    {
+      "produto": "Cueca Due Boxer Adulto P 3Pcs",
+      "preco": "R$ 31,60"
+    },
+    {
+      "produto": "Mistura Láctea Sabor Requeijão Amarilis 1,8kg",
+      "preco": "R$ 12,45"
+    },
+    {
+      "produto": "Cueca Due Boxer Adulto G 3Pcs",
+      "preco": "R$ 31,60"
+    },
+    {
+      "produto": "Biscoito Chocofesta Kg",
+      "preco": "R$ 29,50 kg"
+    },
+    {
+      "produto": "Cupcake",
+      "preco": "R$ 1,50"
+    },
+    {
+      "produto": "Misturas Prontas e Preparos Bolo Embalagem 10G",
+      "preco": "R$ 3,25"
+    }
+  ],
+  "bolos-e-tortas": [
+    {
+      "produto": "Bolinho Bauducco Roll 34g Chocolate",
+      "preco": "R$ 1,99"
+    },
+    {
+      "produto": "Bolinho Duplo Chocolate Bauducco 40g",
+      "preco": "R$ 2,35"
+    },
+    {
+      "produto": "Bolinho Ana Maria Baunilha 70g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Bolinho Bauducco Kids 40g Baunilha Chocolate",
+      "preco": "R$ 2,35"
+    },
+    {
+      "produto": "Bolinho Bauducco 40g Laranja",
+      "preco": "R$ 2,35"
+    },
+    {
+      "produto": "Bolo Sabor Laranja Panco 300g",
+      "preco": "R$ 10,35"
+    },
+    {
+      "produto": "Bolinho Baunilha Recheio Morango Bauducco 40g",
+      "preco": "R$ 2,35"
+    },
+    {
+      "produto": "Bolinho Sabor Chocolate com Baunilha Bauducco 40g",
+      "preco": "R$ 2,35"
+    },
+    {
+      "produto": "Bolo Casa Suiça Ursinho Chocolate 43g",
+      "preco": "R$ 2,65"
+    },
+    {
+      "produto": "Bolo Mesclado Marilan 200g",
+      "preco": "R$ 7,45"
+    },
+    {
+      "produto": "Bolo de Laranja Pullman 250g",
+      "preco": "R$ 10,49"
+    },
+    {
+      "produto": "Bolo Abacaxi Panco 300g",
+      "preco": "R$ 10,35"
+    },
+    {
+      "produto": "Bolo de Chocoboy Panco 300g",
+      "preco": "R$ 11,35"
+    },
+    {
+      "produto": "Bolinho Panquinho Chocolate Panco 70g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolo Panco Bebezinho Tradicional Baunilha Embalagem 56g",
+      "preco": "R$ 2,99"
+    },
+    {
+      "produto": "Bolo Chocolate Panco 300g",
+      "preco": "R$ 10,35"
+    },
+    {
+      "produto": "Bolinho Sabor Baunilha com Morango Seven Boys 35g",
+      "preco": "R$ 2,29"
+    },
+    {
+      "produto": "Bolinho Panquinho Chocolate com Baunilha Panco 70G",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolo Gelado de Abacaxi Fabricação Própria",
+      "preco": "R$ 27,00 kg"
+    },
+    {
+      "produto": "Bolo Coco Panco 300g",
+      "preco": "R$ 10,35"
+    },
+    {
+      "produto": "Bolo de Milho Panco 300g",
+      "preco": "R$ 10,35"
+    },
+    {
+      "produto": "Bolinho Panquinho Baunilha Panco 70g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolinho de Brigadeiro Panquinho Panco 70g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolinho Panquinho Baunilha e Morango Panco 70g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolo Bebezinho Chocolate Suíço Panco 210g",
+      "preco": "R$ 11,59"
+    },
+    {
+      "produto": "Pão de Mel Cobertura Chocolate Ao Leite Bauducco 80g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolo Gotas de Chocolate Pullman 250g",
+      "preco": "R$ 10,49"
+    },
+    {
+      "produto": "Bolo Bebezinho Morango Panco 210g",
+      "preco": "R$ 11,59"
+    },
+    {
+      "produto": "Bolo Formigueiro Panco 300g",
+      "preco": "R$ 11,35"
+    },
+    {
+      "produto": "Bolo Bebezinho Brigadeiro Panco 70g",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Bolinho Casa Suiça Turma da Mônica Baunilha Recheado de Baunilha Embalagem 40g",
+      "preco": "R$ 2,29"
+    },
+    {
+      "produto": "Bolo Bebezinho Baunilha Chocolate Panco 210g",
+      "preco": "R$ 11,59"
+    },
+    {
+      "produto": "Bolo Bebezinho de Laranja Panco 70g",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Bolinho Panquinho Baunilha com Doce de Leite Panco 70g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Bolo Gotas de Chocolate Panco 300g",
+      "preco": "R$ 11,35"
+    },
+    {
+      "produto": "Bolo de Chocolate Marilan 200g",
+      "preco": "R$ 7,45"
+    },
+    {
+      "produto": "Bolo de Chocolate Romanato Embalagem 200g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Bolo Bebezinho Baunilha Chocolate Panco 70g",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Bolo Bebezinho Morango Panco 70g",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Bolo Bebezinho Gotas de Chocolate Panco 70G",
+      "preco": "R$ 4,09"
+    },
+    {
+      "produto": "Bolo Bebezinho Chocolate Suíço Panco 70g",
+      "preco": "R$ 4,09"
+    }
+  ],
+  "panetones": [
+    {
+      "produto": "Panettone de Chocolate a Vida com Mais Sabor Parati 400g",
+      "preco": "R$ 19,90"
+    },
+    {
+      "produto": "Chocotone Panco Gotas de Chocolate Caixa 500g",
+      "preco": "R$ 18,59"
+    },
+    {
+      "produto": "Panettone Frutas Parati 450g",
+      "preco": "R$ 19,90"
+    },
+    {
+      "produto": "Panettone Sabor Brigadeiro com Gotas de Chocolate Parati 400g",
+      "preco": "R$ 19,90"
+    },
+    {
+      "produto": "Panettone Panco com Frutas Embalagem 400g",
+      "preco": "R$ 18,59"
+    },
+    {
+      "produto": "Panettone com Frutas Cristalizadas e Uvas-Passas Parati 450g",
+      "preco": "R$ 20,55"
+    },
+    {
+      "produto": "Panettone Chocomax Chocolate Ao Leite Parati 400g",
+      "preco": "R$ 23,50"
+    },
+    {
+      "produto": "Panettone Casa Suiça com Gotas de Chocolate 400g",
+      "preco": "R$ 22,90"
+    },
+    {
+      "produto": "Panettone Panco com Gotas de Chocolate Embalagem 400g",
+      "preco": "R$ 18,59"
+    },
+    {
+      "produto": "Panettone com Gotas de Chocolate Parati 400g",
+      "preco": "R$ 20,55"
+    },
+    {
+      "produto": "Panettone com Gotas de Chocolate Avelã Choco Max Parati 400G",
+      "preco": "R$ 23,50"
+    },
+    {
+      "produto": "Panettone Casa Suiça Frutas Embalagem 400g",
+      "preco": "R$ 22,90"
+    },
+    {
+      "produto": "Panetone Panco Chocolate Trufado Caixa 550g",
+      "preco": "R$ 25,99"
+    },
+    {
+      "produto": "Panettone Casa Suíça Frutas Cristalizadas Marilan 400g",
+      "preco": "R$ 19,60"
+    },
+    {
+      "produto": "Panettone Panco com Frutas Zero 400g",
+      "preco": "R$ 25,99"
+    },
+    {
+      "produto": "Panettone com Gotas de Chocolate Ao Leite Recheio Trufado Chocolate Meio Amargo Casa Suíça 500g",
+      "preco": "R$ 30,90"
+    },
+    {
+      "produto": "Panetone de Frutas Cristalizadas Triunfo 400G",
+      "preco": "R$ 23,90"
+    },
+    {
+      "produto": "Panettone com Gotas de Chocolate Ao Leite Recheio 3 Chocolates Casa Suíça 500g",
+      "preco": "R$ 30,90"
+    },
+    {
+      "produto": "Panettone Creme de Avelã e Cacau Casa Suica 500g",
+      "preco": "R$ 30,90"
+    },
+    {
+      "produto": "Panetone Arcor Premio 430G",
+      "preco": "R$ 32,79"
+    },
+    {
+      "produto": "Panetone Arcor 430G",
+      "preco": "R$ 32,79"
+    }
+  ],
+  "lanches-e-salgados": [
+    {
+      "produto": "Salgado Congelado Risolis Presunto e Queijo Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Enrolado Simples Segredos de Minas 400G",
+      "preco": "R$ 5,99"
+    }
+  ],
+  "achocolatados-e-cia": [
+    {
+      "produto": "Achocolatado Pó Nescau Pacote 1,2kg Leve Mais Pague Menos",
+      "preco": "R$ 26,65"
+    },
+    {
+      "produto": "Achocolatado Nescau 550g",
+      "preco": "R$ 15,30"
+    },
+    {
+      "produto": "Achocolatado em Pó Tradicional Nescau 370g",
+      "preco": "R$ 10,59"
+    },
+    {
+      "produto": "Achocolatado em Pó Original Toddy 370g",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Beb Lac Uht Choc Toddynho Tp 200ml",
+      "preco": "R$ 2,85"
+    },
+    {
+      "produto": "Achocolatado em Pó Apti Instant Power Sachê 700G",
+      "preco": "R$ 12,59 R$ 14,35"
+    },
+    {
+      "produto": "Achocolatado em Pó Toddy 1,020kg",
+      "preco": "R$ 19,95"
+    },
+    {
+      "produto": "Achocolatado em Pó Toddy 620G",
+      "preco": "R$ 13,99"
+    },
+    {
+      "produto": "Achocolatado em Pó Original Toddy 750g",
+      "preco": "R$ 17,59"
+    },
+    {
+      "produto": "Bebida Láctea Uht Sabor Chocolate Choco Kids Lider 200ml",
+      "preco": "R$ 1,19"
+    },
+    {
+      "produto": "Achocolatado em Pó Nescau Tradicional 730g",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Bebida Láctea Uht Sabor Chocolate Pirakids 200ml",
+      "preco": "R$ 1,49"
+    },
+    {
+      "produto": "Achocolatado Pó Nescau Lata 200g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Bebida Láctea Uht Chocolate Levinho Toddynho 200ml",
+      "preco": "R$ 2,85"
+    },
+    {
+      "produto": "Achocolatado Muky 400G",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Bebida Láctea Choco Lider 1l",
+      "preco": "R$ 5,60"
+    },
+    {
+      "produto": "Preparo em Pó Atalaia Morango Embalagem 400G",
+      "preco": "R$ 5,35"
+    },
+    {
+      "produto": "Achocolatado Ovomaltine Flocos Crocantes 300g",
+      "preco": "R$ 16,55"
+    },
+    {
+      "produto": "Achocolatado Pirakids 1l",
+      "preco": "R$ 6,49 R$ 7,85"
+    },
+    {
+      "produto": "Achocolatado em Pó Apti Embalagem 400G",
+      "preco": "R$ 6,89"
+    },
+    {
+      "produto": "Achocolatado Pó Nescau Pacote 1,02kg",
+      "preco": "R$ 26,99"
+    },
+    {
+      "produto": "Achocolatado em Pó Original Embalagem Econômica Toddy 1,8kg",
+      "preco": "R$ 34,99"
+    },
+    {
+      "produto": "Chocolate em Pó Apti 200g",
+      "preco": "R$ 10,90"
+    },
+    {
+      "produto": "Achocolatado em Pó Atalaia Embalagem 300g",
+      "preco": "R$ 4,69"
+    },
+    {
+      "produto": "Achocolatado em Pó Sabor Morango Nesquik 200g",
+      "preco": "R$ 11,65"
+    },
+    {
+      "produto": "Achocolatado em Pó Original Toddy 200g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Bebida Láctea Cappuccino Balance 3 Corações 260ml",
+      "preco": "R$ 6,99 R$ 7,50"
+    },
+    {
+      "produto": "Complemento Alimentar Sustagen Kids Chocolate 190G",
+      "preco": "R$ 22,15"
+    },
+    {
+      "produto": "Achocolatado em Pó Orsi Embalagem 400G",
+      "preco": "R$ 7,39"
+    },
+    {
+      "produto": "Achocolatado em Pó Apti 300g",
+      "preco": "R$ 5,45"
+    },
+    {
+      "produto": "Achocolatado em Pó Sabor Morango Nesquik 380g",
+      "preco": "R$ 16,99"
+    },
+    {
+      "produto": "Achocolatado em Pó Instant Power Apti 370G",
+      "preco": "R$ 8,60"
+    },
+    {
+      "produto": "Achocolatado em Pó Atalaia 600G",
+      "preco": "R$ 9,40"
+    },
+    {
+      "produto": "Achocolatado em Pó 60% Cacau Extra Cacau Nescau 180g",
+      "preco": "R$ 15,59"
+    },
+    {
+      "produto": "Achocolatado Pó 3 Corações Chocolatto 370g",
+      "preco": "R$ 9,75"
+    },
+    {
+      "produto": "Achocolatado em Pó New Choco Dark Lowçúcar Pote 210G",
+      "preco": "R$ 24,10"
+    },
+    {
+      "produto": "Achocolatado em Pó Apti Morango Sachê 400G",
+      "preco": "R$ 7,75"
+    },
+    {
+      "produto": "Achocolatado Pirakids Restritivo Zero Lactose 200ml",
+      "preco": "R$ 2,99"
+    },
+    {
+      "produto": "Bebida Láctea Cappuccino Chocolate 3 Corações 260ml",
+      "preco": "R$ 7,19"
+    },
+    {
+      "produto": "Achocolatado em Pó Light Toddy 380g",
+      "preco": "R$ 16,99"
+    },
+    {
+      "produto": "Achocolatado Light Magro 300G",
+      "preco": "R$ 13,99"
+    },
+    {
+      "produto": "Achocolatado em Pó Muky Pacote 1,01Kg",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Achocolatado Apti 400g",
+      "preco": "R$ 5,75"
+    },
+    {
+      "produto": "Achocolatado em Pó La Rend Instantâneo 400G",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Choco Power Ball Bco 300Gr",
+      "preco": "R$ 13,99 R$ 16,49"
+    },
+    {
+      "produto": "Achocolatado Uht Danette 200ml",
+      "preco": "R$ 2,29 R$ 2,45"
+    },
+    {
+      "produto": "Vitamina em Pó Instantânea Sabor Morango Pera e Banana Neston 400g",
+      "preco": "R$ 14,55"
+    },
+    {
+      "produto": "Bebida Láctea Cappuccino Classic 3 Corações 260ml",
+      "preco": "R$ 7,19"
+    },
+    {
+      "produto": "Bebida Láctea de Chocolate Itambé Kids 200Ml",
+      "preco": "R$ 1,99"
+    },
+    {
+      "produto": "Bebida Láctea Piracanjuba Quinoa Linhaça Chia Morango Banana 200ml",
+      "preco": "R$ 3,25"
+    },
+    {
+      "produto": "Achocolatado em Pó Zero Apti 210G",
+      "preco": "R$ 18,90"
+    },
+    {
+      "produto": "Bebida Láctea Piracanjuba Quinoa Linhaça Chia Mamão Maçã 200ml",
+      "preco": "R$ 3,25"
+    },
+    {
+      "produto": "Achocolatado em Pó 30% Cacau Nescau 180g",
+      "preco": "R$ 15,59"
+    },
+    {
+      "produto": "Bebida Láctea Piracanjuba Quinoa Linhaça Chia Banana 200ml",
+      "preco": "R$ 3,25"
+    },
+    {
+      "produto": "Achocolatado New Choco Lowçucar 210G",
+      "preco": "R$ 17,99"
+    },
+    {
+      "produto": "Bebida Láctea Vovo Anizia Frutas Vermelhas Embalagem 1L",
+      "preco": "R$ 5,29"
+    },
+    {
+      "produto": "Bebida Láctea Vovo Anizia Frutas Embalagem 1L",
+      "preco": "R$ 5,29"
+    },
+    {
+      "produto": "Bebida em Pó Alcobaca Sabor Morango 400G",
+      "preco": "R$ 10,89"
+    }
+  ],
+  "torradas": [
+    {
+      "produto": "Torrada Tradicional Adria 142g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Torrada Bauducco 142g Multigrao",
+      "preco": "R$ 4,89"
+    },
+    {
+      "produto": "Torrada Tradicional Bauducco 142g",
+      "preco": "R$ 4,89"
+    },
+    {
+      "produto": "Torrada Multigrãos Adria 142g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Torrada Light Lev Magic Toast Marilan 110G",
+      "preco": "R$ 5,35"
+    },
+    {
+      "produto": "Torrada Integral Lev Magic Toast Marilan 110G",
+      "preco": "R$ 5,35"
+    },
+    {
+      "produto": "Torrada Lev Magic Toast Original Marilan 110g",
+      "preco": "R$ 5,35"
+    },
+    {
+      "produto": "Torrada Integral Adria 142g",
+      "preco": "R$ 4,19"
+    },
+    {
+      "produto": "Torrada Multicereais Integral Lev Magic Toast Marilan 110G",
+      "preco": "R$ 5,35"
+    },
+    {
+      "produto": "Torrada Tradicional Light Adria 160G",
+      "preco": "R$ 3,79 R$ 4,19"
+    },
+    {
+      "produto": "Torrada Tradicional Light Adria 142G",
+      "preco": "R$ 3,79 R$ 4,19"
+    },
+    {
+      "produto": "Torrada Integral Bauducco 142g",
+      "preco": "R$ 4,89"
+    },
+    {
+      "produto": "Torrada Integral de Peito de Peru Lev Magic Toast Marilan 110g",
+      "preco": "R$ 5,35"
+    }
+  ],
+  "aveias-e-cereais": [
+    {
+      "produto": "Cereal Matinal Original Kelloggs Sucrilhos 240g",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Cereal Sucrilhos 690g",
+      "preco": "R$ 21,99"
+    },
+    {
+      "produto": "Aveia em Flocos Natural Life 500G",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Aveia em Flocos Finos Quaker 165 g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Aveia em Flocos Finos Natural Life 500g",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Aveia em Flocos Finos K-Life 170G",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Farinha Láctea Original Nestlé 360g",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Aveia em Flocos Regulares Quaker 165g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Aveia em Flocos K-Life 170G",
+      "preco": "R$ 3,99"
+    },
+    {
+      "produto": "Cereal Matinal Superbom Super Balls Pacote 200g",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Farinha Láctea Original Nestlé 210g",
+      "preco": "R$ 8,99"
+    },
+    {
+      "produto": "Barra de Proteína Crisp Bar Whey Protein Creme de Coco Integralmedica 45g",
+      "preco": "R$ 8,45"
+    },
+    {
+      "produto": "Granola com Castanhas Nobres Natural Life 300G",
+      "preco": "R$ 13,29"
+    },
+    {
+      "produto": "Granola Tradicional Natural Life 300g",
+      "preco": "R$ 11,60"
+    },
+    {
+      "produto": "Cereal Matinal Kellogg's Sucrilhos Unidade 250G",
+      "preco": "R$ 7,99 R$ 9,25"
+    },
+    {
+      "produto": "Cereal Kellogg's Froot Loops Frutas 230G",
+      "preco": "R$ 18,29"
+    },
+    {
+      "produto": "Aveia em Flocos Nestlé 170 g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Farelo de Aveia Natural Life 500g",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Granola Junco Happy Life Cereais Maltados Embalagem 250G",
+      "preco": "R$ 8,75"
+    },
+    {
+      "produto": "Cereal Skarchitos Superbom 240g",
+      "preco": "R$ 7,59"
+    },
+    {
+      "produto": "Aveia em Flocos Finos Apti 150g",
+      "preco": "R$ 4,55"
+    },
+    {
+      "produto": "Granola Maçã e Mel Natural Life 300g",
+      "preco": "R$ 11,60"
+    },
+    {
+      "produto": "Cereal Matinal Skarchitos Tamanho Econômico Superbom 500g",
+      "preco": "R$ 13,79"
+    },
+    {
+      "produto": "Cereal Matnal Nescau Nestlé 210g",
+      "preco": "R$ 11,65"
+    },
+    {
+      "produto": "Granola Diet Natural Life 300G",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Granola Junco Happy Life Tradicional + Quinoa Embalagem 250G",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Cereal Matinal sem Adição de Açúcares Nesfit 220g",
+      "preco": "R$ 15,89"
+    },
+    {
+      "produto": "Sucrilhos de Chocolate Power Pops Kelloggs 200G",
+      "preco": "R$ 10,90"
+    },
+    {
+      "produto": "Aveia em Flocos Finos Nestlé 170g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Granola Kinino 250Ml",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Granola com Castanhas Kinino 250G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Cereal Matinal Original Sucrilhos Kelloggs 110g",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Cereal Infantil Multicereais Mucilon 180g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Farinha Láctea Tradicional Nestlé 600g",
+      "preco": "R$ 24,25"
+    },
+    {
+      "produto": "Cereal Matinal Corn Flakes 200G",
+      "preco": "R$ 10,55"
+    },
+    {
+      "produto": "Cereal Matinal Nestle Crunch 120 g",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Cereal Infantil 3 Cereais Neston 360g",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Granola com Frutas Kinino 250G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Farinha Láctea Original Nestlé 160g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Cereal Infantil de Milho Mucilon 400g",
+      "preco": "R$ 18,29"
+    },
+    {
+      "produto": "Aveia em Flocos Apti 150g",
+      "preco": "R$ 4,55"
+    },
+    {
+      "produto": "Flocos de Cereais 3 Cereais Nestlé Neston 210g",
+      "preco": "R$ 9,10"
+    },
+    {
+      "produto": "Farinha de Aveia Integral Quaker 165g",
+      "preco": "R$ 5,90"
+    },
+    {
+      "produto": "Cereal Matinal Kelloggs Musli Gotas Chocolate Embalagem 270G",
+      "preco": "R$ 13,99 R$ 16,35"
+    },
+    {
+      "produto": "Vitamina para Preparo Instantâneo Sabor Maçã, Banana e Mamão Nestlé Neston 400g",
+      "preco": "R$ 14,55"
+    },
+    {
+      "produto": "Granola Junco Happy Life Banana + Quinoa Embalagem 250G",
+      "preco": "R$ 8,75"
+    },
+    {
+      "produto": "Granola sem Açúcar Kinino 250G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Cereal Matinal Kelloggs Sucrilhos Power Chocolate 240G",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Cereal com Cobertura Choco Power Ball Sabor Chocolate 300g",
+      "preco": "R$ 14,69"
+    },
+    {
+      "produto": "Barra de Cereal Coco com Chocolate Nutry Pacote 66G com 3Un",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Granola Tradicional Light Natural Life 300g",
+      "preco": "R$ 11,60"
+    },
+    {
+      "produto": "Cereal Matinal Duo Nescau 210g",
+      "preco": "R$ 12,10"
+    },
+    {
+      "produto": "Barra de Cereal Morango E Chocolate Nutry 66g",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Protein Crisp Bar Duo Crunch Integralmédica 45G",
+      "preco": "R$ 8,45"
+    },
+    {
+      "produto": "Mingau Multi Cereais Mucilon 400g",
+      "preco": "R$ 16,99 R$ 18,29"
+    },
+    {
+      "produto": "Cereal Matinal Chocolate Kitkat 210g",
+      "preco": "R$ 13,99"
+    },
+    {
+      "produto": "Aveia Natural Life sem Glúten em Flocos Finos Embalagem 250g",
+      "preco": "R$ 22,15"
+    },
+    {
+      "produto": "Farinha de Aveia K-Life 170G",
+      "preco": "R$ 4,29"
+    },
+    {
+      "produto": "Barra de Cereal Nutry Castanha com Chocolate Embalagem 3 Un",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Cereal Matinal Tradicional Nescau 770g",
+      "preco": "R$ 28,90"
+    },
+    {
+      "produto": "Cereal Infantil Integral Arroz & Aveia Mucilon 360g",
+      "preco": "R$ 11,49"
+    },
+    {
+      "produto": "Cereal Matinal Tradicional Nescau 120g",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Barra de Cereal Parati Granofibra Brigadeiro Embalagem 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Granola Caseira Natural Life 300G",
+      "preco": "R$ 11,60"
+    },
+    {
+      "produto": "Granola com Chocolate Happy Life 250G",
+      "preco": "R$ 8,75"
+    },
+    {
+      "produto": "Mingau de Milho Nutribom 180G",
+      "preco": "R$ 6,79"
+    },
+    {
+      "produto": "Cereal Matinal Sucrilhos Menos Açúcar Kellogs 170g",
+      "preco": "R$ 10,59"
+    },
+    {
+      "produto": "Cereal Matinal Kelloggs Musli Maçã e Passas Embalagem 270G",
+      "preco": "R$ 16,35"
+    },
+    {
+      "produto": "Cereal Matinal Chocolate Kitkat 90g",
+      "preco": "R$ 6,49"
+    },
+    {
+      "produto": "Cereal Matinal Snow Flakes Nestlé 120g",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Barra de Cereal Parati Granofibra Banana Aveia Mel 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Barra Cereal Bolo Chocolate Nutry 22g",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Cereal Matinal de Chocolate Kelloggs 690g",
+      "preco": "R$ 21,99"
+    },
+    {
+      "produto": "Vitamina em Pó para Preparo Instantâneo Sabor Maçã, Banana e Mamão Nestlé Neston 210g",
+      "preco": "R$ 7,65"
+    },
+    {
+      "produto": "Barra de Cereal Aveia Banana e Mel Nutry 66g com 3un",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Granola Sabor Chocolate Kinino 250G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Granola Tradicional Kellogg's 210G",
+      "preco": "R$ 10,90"
+    },
+    {
+      "produto": "Barra de Cereal Parati Granofibra Brownie Embalagem 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Barra de Cereal Parati Granofibra Light Banana Chocolate 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Granola com Banana e Canela Natural Life 300g",
+      "preco": "R$ 11,60"
+    },
+    {
+      "produto": "Cereal Matinal Leite Condensado Flakes Sachê Moça 120g",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Barra de Cereal Parati Grano Fibra Maçã Canela Uva Passa 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Cereal Infantil Arroz Mucilon 360g",
+      "preco": "R$ 11,49"
+    },
+    {
+      "produto": "Cereal Matinal de Chocolate Choco Krispis Kelloggs 200G",
+      "preco": "R$ 9,85"
+    },
+    {
+      "produto": "Mingau Mucilon Arroz e Aveia 400g Nestle",
+      "preco": "R$ 18,29"
+    },
+    {
+      "produto": "Mini Cereal Matinal Chocolate Branco Ao Leite Mavalério Choco Power Ball Embalagem 500g",
+      "preco": "R$ 24,69"
+    },
+    {
+      "produto": "Barra de Cereal Parati Granofibra Morango 20G",
+      "preco": "R$ 1,75"
+    },
+    {
+      "produto": "Granola Happy Life Aveia Mel Embalagem 250G",
+      "preco": "R$ 8,75"
+    },
+    {
+      "produto": "Granola Chocolate Kellogg's 210G",
+      "preco": "R$ 8,99 R$ 10,90"
+    },
+    {
+      "produto": "Cereal Matinal Chocolate Nescau Nestlé 270g",
+      "preco": "R$ 12,70"
+    },
+    {
+      "produto": "Granola Banana e Canela Kinino 250G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Cereal Infantil de Arroz e Aveia Integral Mucilon 180g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Cereal Infantil de Arroz Mucilon 180g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Cereal Matinal Choco Krispis Chocolate Kelloggs 100G",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Flocos de Cereais Chocolate Cobertura Chocolate Ao Leite Ovomaltine Rocks Pacote 40g",
+      "preco": "R$ 4,95"
+    },
+    {
+      "produto": "Cereal Infantil de Milho Nestlé Mucilon 180g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Barra de Proteina Crisp Brownie de Chocolate 45g",
+      "preco": "R$ 8,45"
+    },
+    {
+      "produto": "Aveia Em Flocos Grossos Aptiva 150g",
+      "preco": "R$ 4,79"
+    },
+    {
+      "produto": "Granola Tradicional Premium Happy Life Junco 200G",
+      "preco": "R$ 6,29"
+    },
+    {
+      "produto": "Barra Sports Creme de Avelã Delicious 40G",
+      "preco": "R$ 9,75"
+    },
+    {
+      "produto": "Barra de Cereal 7 Grãos Castanha Avelã e Cacau da Magrinha 15g",
+      "preco": "R$ 1,79"
+    },
+    {
+      "produto": "Barra Integral de Proteina Amendoim da Magrinha 15g",
+      "preco": "R$ 2,99"
+    },
+    {
+      "produto": "Barra de Cereal Integral 7 Grãos Cacau da Magrinha 15G",
+      "preco": "R$ 1,79"
+    },
+    {
+      "produto": "Barra Sports Cookies Delicious 40G",
+      "preco": "R$ 9,75"
+    }
+  ],
+  "cafes": [
+    {
+      "produto": "Café Em Pó Tradicional 3 Corações 500g",
+      "preco": "R$ 20,99"
+    },
+    {
+      "produto": "Café Torrado e Moído Tradicional Vácuo Melitta 500g",
+      "preco": "R$ 22,79"
+    },
+    {
+      "produto": "Café Torrado e Moído Tradicional Melitta 500g",
+      "preco": "R$ 22,79"
+    },
+    {
+      "produto": "Café Torrado E Moído Tradicional A Vácuo 3 Corações 500g",
+      "preco": "R$ 20,99"
+    },
+    {
+      "produto": "Café Torrado e Moído Tradicional Caboclo 500g",
+      "preco": "R$ 19,55"
+    },
+    {
+      "produto": "Café Montana Extra Forte Almofada Embalagem 500G",
+      "preco": "R$ 20,90"
+    },
+    {
+      "produto": "Cafe Jaguari Tradicional 500G",
+      "preco": "R$ 22,55"
+    },
+    {
+      "produto": "Café Pelé Extra Forte Vácuo 500g",
+      "preco": "R$ 18,45"
+    },
+    {
+      "produto": "Café Torrado e Moído Extra Forte Caboclo Vácuo 500g",
+      "preco": "R$ 19,55"
+    },
+    {
+      "produto": "Café Tradicional Coamo 500g",
+      "preco": "R$ 18,49"
+    },
+    {
+      "produto": "Café Melitta Sabor da Fazenda Vácuo 500g",
+      "preco": "R$ 23,99"
+    },
+    {
+      "produto": "Café Paulista Tradicional 500G",
+      "preco": "R$ 20,65"
+    },
+    {
+      "produto": "Café 3 Corações Extra Forte Almofada 500g",
+      "preco": "R$ 20,99"
+    },
+    {
+      "produto": "Café Tradicional Caboclo 500g",
+      "preco": "R$ 20,45"
+    },
+    {
+      "produto": "Café Pelé Torrado e Moído Tradicional Vácuo 500G",
+      "preco": "R$ 18,45"
+    },
+    {
+      "produto": "Café Torrado e Moído Tradicional Caboclo 500G",
+      "preco": "R$ 19,35"
+    },
+    {
+      "produto": "Café Torrado e Moído Vácuo Pilão 500g",
+      "preco": "R$ 21,75"
+    },
+    {
+      "produto": "Café Montana Extra Forte Embalagem 500G",
+      "preco": "R$ 20,90"
+    },
+    {
+      "produto": "Mochaccino Avelã em Cápsulas 17g Nescafé Dolce Gusto 10un",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Torrado E Moído Tradicional Café Brasileiro 500g",
+      "preco": "R$ 19,75"
+    },
+    {
+      "produto": "Café Caboclo Extra Forte Pacote Almofada 500g",
+      "preco": "R$ 20,45"
+    },
+    {
+      "produto": "Café Torrado e Moído Extraforte Vácuo Melitta 500g",
+      "preco": "R$ 22,79"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Mochaccino/canela 172g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Paulista Extra Forte Pacote 500G",
+      "preco": "R$ 20,65"
+    },
+    {
+      "produto": "Café Solúvel Tradicional 3 Corações 40g",
+      "preco": "R$ 4,95"
+    },
+    {
+      "produto": "Café Torrado e Moído Tradicional União 500g",
+      "preco": "R$ 21,90"
+    },
+    {
+      "produto": "Cappuccino Classic 3 Corações Pote 200g",
+      "preco": "R$ 15,45"
+    },
+    {
+      "produto": "Cappuccino Classic 3 Corações 400g",
+      "preco": "R$ 27,99"
+    },
+    {
+      "produto": "Café Moído Tradicional Itamaraty 500g",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Paulista Extra Forte Caixa 500G",
+      "preco": "R$ 20,55"
+    },
+    {
+      "produto": "Café Paulista Tradicional a Vácuo Embalagem 500G",
+      "preco": "R$ 20,55"
+    },
+    {
+      "produto": "Café Torrado e Moído Extra Forte União 500g",
+      "preco": "R$ 21,90"
+    },
+    {
+      "produto": "Cafe Avanzi 500G Tradicional",
+      "preco": "R$ 18,79"
+    },
+    {
+      "produto": "Café Solúvel em Pó Pilão 40g",
+      "preco": "R$ 5,39"
+    },
+    {
+      "produto": "Cápsula Nescáfe Dolce Gusto Matinal 80g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Tradicional Itamaraty 500g",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Cappuccino em Cápsula Classic 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Extra Forte Torrado E Moído Brasileiro 500g",
+      "preco": "R$ 19,75"
+    },
+    {
+      "produto": "Café Especial Jaguari 500G",
+      "preco": "R$ 22,55"
+    },
+    {
+      "produto": "Café Solúvel Granulado Tradicional Melitta 40g",
+      "preco": "R$ 6,49"
+    },
+    {
+      "produto": "Cappuccino Solúvel Tradicional Melitta 200g",
+      "preco": "R$ 9,90"
+    },
+    {
+      "produto": "Café Torrado E Moído 3 Corações Extra Forte A Vácuo 500g",
+      "preco": "R$ 20,99"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Chococino 160g",
+      "preco": "R$ 20,45"
+    },
+    {
+      "produto": "Café Solúvel Matinal Suave Nescafé 40g",
+      "preco": "R$ 6,10"
+    },
+    {
+      "produto": "Café Solúvel Tradição Forte Nescafé 40g",
+      "preco": "R$ 6,10"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Alpino Trad. 178g",
+      "preco": "R$ 24,10"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Caseiro 80g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Cappuccino Chocolate 3 Corações Pote 200g",
+      "preco": "R$ 15,45"
+    },
+    {
+      "produto": "Café Solúvel Nescafe Original Extraforte 40g",
+      "preco": "R$ 6,10"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Café Au Lait 100g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Café Espresso 60g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Torrado e Moído Melitta Sabor da Fazenda 500g",
+      "preco": "R$ 23,99"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Cappuccino 117g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Soluvel 3 Corações Extra Forte 40g",
+      "preco": "R$ 4,95"
+    },
+    {
+      "produto": "Cápsula Café Espresso Intenso Nescafé Dolce Gusto com 10 Cápsulas 80 G",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Cápsula Chocolatto Caramello 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Cápsula Sabor Nesquik Nestlé Nescafé Dolce Gusto 10 Cápsulas",
+      "preco": "R$ 25,45"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Nescau 170g",
+      "preco": "R$ 23,60"
+    },
+    {
+      "produto": "Cappuccino Jaguari Tradicional Pote 200G",
+      "preco": "R$ 15,45"
+    },
+    {
+      "produto": "Café Jaguari Premium Vácuo Embalagem 250G",
+      "preco": "R$ 16,15"
+    },
+    {
+      "produto": "Bebida Láctea Cappuccino Café Com Leite 3 Corações 260ml",
+      "preco": "R$ 7,19"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Cappuccino D.l 170g",
+      "preco": "R$ 23,60"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Latte Macchiato 112.5g",
+      "preco": "R$ 20,30"
+    },
+    {
+      "produto": "Capsula de Cappuccino Avela 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Extra Forte Melitta 40g",
+      "preco": "R$ 6,49"
+    },
+    {
+      "produto": "Cápsula Nescafe Dolce Gusto Lungo 70g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Capsula de Cappuccino Doce de Leite 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Cápsula Nescafe Dolce Gusto Frappe 135g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Com Leite Solúvel 3 Corações 300g",
+      "preco": "R$ 20,95"
+    },
+    {
+      "produto": "Café Solúvel Jaguari 40G",
+      "preco": "R$ 5,59"
+    },
+    {
+      "produto": "Capsula de Café Espresso Forza 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Pingado Nescafé Dolce Gusto Caixa Com 10 Cápsulas",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Café Solúvel Original Nescafé 100g",
+      "preco": "R$ 15,99"
+    },
+    {
+      "produto": "Capsula de Café Filtrado Tradicional 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Em Cápsulas Dolce Gusto Doppio Espresso Nescafé 10caps",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Cápsula Café Espresso Atento 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Capsula de Café Com Leite Latte Macchiato 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Solúvel Tradição Nescafé 100g",
+      "preco": "R$ 15,99"
+    },
+    {
+      "produto": "Café Torrado E Moído Descafeinado A Vácuo 3 Corações 250g",
+      "preco": "R$ 18,35"
+    },
+    {
+      "produto": "Cappuccino Baunilha 3 Corações Pote 200g",
+      "preco": "R$ 15,45"
+    },
+    {
+      "produto": "Café Solúvel em Pó Intensidade 9 Nescafé Gold 40g",
+      "preco": "R$ 7,49"
+    },
+    {
+      "produto": "Capsula de Café Espresso Ameno 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Cápsula de Chocolate Quente Chocolatto 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café em Cápsula Jaguari Espresso Intenso Embalagem 10 Un",
+      "preco": "R$ 23,50"
+    },
+    {
+      "produto": "Café Tradicional Jaguari 250G",
+      "preco": "R$ 11,29"
+    },
+    {
+      "produto": "Café em Cápsula Jaguari Embalagem 52g",
+      "preco": "R$ 23,50"
+    },
+    {
+      "produto": "Cápsula de Café Espresso Pleno 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Capsula de Café Espresso Brasileiro 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café da Manhã 500G",
+      "preco": "R$ 18,99"
+    },
+    {
+      "produto": "Café Jaguari Especial Vácuo 500G",
+      "preco": "R$ 22,55"
+    },
+    {
+      "produto": "Capsula Nescafe Dolce Gusto Café Au Lait Desn. 100g",
+      "preco": "R$ 19,79"
+    },
+    {
+      "produto": "Capsula de Café Com Leite 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Capsula de Café Espresso Vibrante 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Cápsula de Café Espresso Supremo 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café em Cápsula Jaguari Espresso Momento Embalagem 10 Un",
+      "preco": "R$ 23,50"
+    },
+    {
+      "produto": "Café Expresso Jaguari Embalagem 500G",
+      "preco": "R$ 36,39"
+    },
+    {
+      "produto": "Café Solúvel Intensidade 6 Nescafé Gold 40g",
+      "preco": "R$ 7,49"
+    },
+    {
+      "produto": "Café Com Leite Solúvel 3 Corações Sache 20g",
+      "preco": "R$ 1,55"
+    },
+    {
+      "produto": "Café Jaguari Extra Forte a Vácuo Pacote 500G",
+      "preco": "R$ 22,55"
+    },
+    {
+      "produto": "Café Solúvel em Pó Equilíbrio Intensidade 8 Nescafé Gold 40g",
+      "preco": "R$ 7,49"
+    },
+    {
+      "produto": "Café Moído Extra Forte Itamaraty 500g",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Capsula de Café Filtrado Gourmet 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Jaguari Ouro Forte a Vácuo Pacote 500G",
+      "preco": "R$ 22,55"
+    },
+    {
+      "produto": "Capsula de Café Descafeinado 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Café Com Leite Solúvel 3 Corações 100g",
+      "preco": "R$ 7,35"
+    },
+    {
+      "produto": "Capuccino Alcobaca 200G Canela",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Café Tradicional Torrado E Moído  Dutati 500g",
+      "preco": "R$ 7,69"
+    },
+    {
+      "produto": "Capuccino Alcobaca 200G Chocolate",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Cafe Ouro Preto 500 Tradicional",
+      "preco": "R$ 14,99 R$ 16,99"
+    },
+    {
+      "produto": "Cappuccino Alcobaça 200G",
+      "preco": "R$ 7,99"
+    }
+  ],
+  "pastas-e-cremes-doces": [
+    {
+      "produto": "Nutella Creme de Avelã 1 Uni 140g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Nutella Creme de Avelã 1 Uni 350g",
+      "preco": "R$ 23,90 R$ 29,15"
+    },
+    {
+      "produto": "Nutella Creme de Avelã 1 Uni 650g",
+      "preco": "R$ 48,99"
+    },
+    {
+      "produto": "Pasta de Amendoim Natural Life Integral 450g",
+      "preco": "R$ 21,25"
+    },
+    {
+      "produto": "Creme de Amendoim Amendocrem Tradicional Fugini 200g",
+      "preco": "R$ 13,19"
+    },
+    {
+      "produto": "Pasta de Amendoin Power 1 One com Brigadeiro Proteico Pote 500g",
+      "preco": "R$ 32,49"
+    },
+    {
+      "produto": "Pasta de Amendoim Crunchy Integral Amendo Power Dacolônia 200g",
+      "preco": "R$ 13,99"
+    },
+    {
+      "produto": "Pasta de Amendoim Bombom Italiano Zero Lactose Dr. Peanut 250g",
+      "preco": "R$ 35,29"
+    },
+    {
+      "produto": "Pasta de Amendoim Natural Life Integral sem Glúten Natural Life Kodilar 300G",
+      "preco": "R$ 14,75"
+    },
+    {
+      "produto": "Pasta de Amendoim Whey Sabores Zero Açúcar Dr. Peanut 250G",
+      "preco": "R$ 35,29"
+    },
+    {
+      "produto": "Pasta de Amendoim com Avelã e Whey Dr. Peanut 250g",
+      "preco": "R$ 35,29"
+    },
+    {
+      "produto": "Pasta de Amedoim Bueníssimo Dr. Peanut 250g",
+      "preco": "R$ 35,29"
+    },
+    {
+      "produto": "Pasta Castanha de Caju Cacau Dacolônia 200G",
+      "preco": "R$ 22,99"
+    },
+    {
+      "produto": "Pasta de Amendoim Vegana Sweet com Chocolate e Coco (Sem Açúcar, Glúten e Lactose) Power One 500G",
+      "preco": "R$ 38,65"
+    },
+    {
+      "produto": "Pasta de Amendoim Cookies Cream Dr. Peanut 250g",
+      "preco": "R$ 35,29"
+    },
+    {
+      "produto": "Pasta de Amendoim Santo Antônio Brigadeiro Proteico Embalagem 500G",
+      "preco": "R$ 27,65"
+    },
+    {
+      "produto": "Pasta de Amendoim Integral sem Glúten Kodilar 1,2Kg",
+      "preco": "R$ 36,75"
+    },
+    {
+      "produto": "Pasta Castanha de Cajú com Cocô da Colonia 200G",
+      "preco": "R$ 22,99"
+    },
+    {
+      "produto": "Pasta Amendoim Bombom de Caramelo Power One 500G",
+      "preco": "R$ 33,50"
+    },
+    {
+      "produto": "Creme Chocolate Stand Pouch Bom da Festa 150g",
+      "preco": "R$ 9,50 R$ 11,99"
+    }
+  ],
+  "chas": [
+    {
+      "produto": "Chá Matte Natural Leão 250g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Cha de Camomila Leã 10g com 10un",
+      "preco": "R$ 3,45"
+    },
+    {
+      "produto": "Chá Mate Natural Leão 40g com 25un",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Chá de Capim Cidreira Leão 15un",
+      "preco": "R$ 7,35"
+    },
+    {
+      "produto": "Chá de Capim Cidreira Leão 10un 10g",
+      "preco": "R$ 3,29"
+    },
+    {
+      "produto": "Chá 6 Ervas Dr Oetker 10un",
+      "preco": "R$ 6,15"
+    },
+    {
+      "produto": "Chá Dr Oetker Camomila Caixa 10g",
+      "preco": "R$ 5,39"
+    },
+    {
+      "produto": "Chá Erva Doce Leão Com 15un",
+      "preco": "R$ 8,80"
+    },
+    {
+      "produto": "Chá Erva Doce Nacional Dr. Oetker 20g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Chá Sabor Hortelã Leão 10g",
+      "preco": "R$ 3,29"
+    },
+    {
+      "produto": "Chá de Camomila Leão 15g com 15un",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Cha Dr Oetker 10g Boldo",
+      "preco": "R$ 5,39"
+    },
+    {
+      "produto": "Chá Dr Oetker Capim Cidreira 10g",
+      "preco": "R$ 5,39"
+    },
+    {
+      "produto": "Chá Matte Original a Granel Leão 100g",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Chá Sabor Amora Mirtilo e Baunilha Leão 22g Caixa com 10un",
+      "preco": "R$ 10,80"
+    },
+    {
+      "produto": "Chá Misto Dr Oetker Camomila, Capim Cidreira, Hortelã e Erva Doce Nacional 15g",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Chá de Camomila, Cidreira e Maracujá Leão 24g 15un",
+      "preco": "R$ 9,90"
+    },
+    {
+      "produto": "Erva Mate Padrão Tereré Chimarrão Gaucho 500G",
+      "preco": "R$ 7,15"
+    },
+    {
+      "produto": "Chá de Erva Doce Leão 16g com 10un",
+      "preco": "R$ 3,75"
+    },
+    {
+      "produto": "Chá Leão Erva Doce Sachê 25Un",
+      "preco": "R$ 9,09"
+    },
+    {
+      "produto": "Chá de Hibisco Natural Life Pacote 30g",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Chá Twinings Camomila Mel Baunilha Embalagem 10un",
+      "preco": "R$ 18,65"
+    },
+    {
+      "produto": "Chá Dr Oetker Hortelã Caixa 10g",
+      "preco": "R$ 5,39"
+    },
+    {
+      "produto": "Chá Camomila e Maracujá Relaxa Leão 16G Caixa com 10Un",
+      "preco": "R$ 12,65"
+    },
+    {
+      "produto": "Chá Matte Leão Limão Sachê 25un",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Chá Verde Natural Life Banchá Pacote 60G",
+      "preco": "R$ 10,60"
+    },
+    {
+      "produto": "Chá Dr Oetker Verde, Gengibre, Abacaxi com Hortelã 15g Caixa 10 Un",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Erva Mate Tereré Hortelã Uhde 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá Leão Hortelã Sachê 15un",
+      "preco": "R$ 7,20"
+    },
+    {
+      "produto": "Chá Drinks Morango E Hortelã Leão 20g",
+      "preco": "R$ 15,59"
+    },
+    {
+      "produto": "Chá de Carqueja Natural Life Pacote 60G",
+      "preco": "R$ 4,55"
+    },
+    {
+      "produto": "Chá Misto Dr. Oetker Hibisco, Chá Verde, Canela, Pimenta, Morango e Mirtilo Embalagem 15g",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Chá de Capim Cidreira Leão 25G",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Chá de Limão com Gengibre Infusions Twinings 15g com 10un",
+      "preco": "R$ 18,65"
+    },
+    {
+      "produto": "Erva Mate para Terere Yacuy Limão Menta Pacote 500G",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Chá Verde Dr Oetker Tradicional Embalagem Sachês 10 Un",
+      "preco": "R$ 9,90"
+    },
+    {
+      "produto": "Chás Senses Sabor Laranja e Gengibre Chá Leão 22g Caixa com 10un",
+      "preco": "R$ 10,80"
+    },
+    {
+      "produto": "Chá de Hortelã Natural Life 60G",
+      "preco": "R$ 5,70"
+    },
+    {
+      "produto": "Chá de Hibisco Rosa Silvestre Amora Leão 10un 16g",
+      "preco": "R$ 10,15"
+    },
+    {
+      "produto": "Chá Mate Kinino Caixa 250G",
+      "preco": "R$ 5,85"
+    },
+    {
+      "produto": "Chá Misto Doce Carinho Dr Oetker Embalagem 10g",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Chá Matte Leão Natural Sachê 15un",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Chá Leão Gengibre e Especiarias Sachê 10un",
+      "preco": "R$ 11,45"
+    },
+    {
+      "produto": "Chá Leãozinho Amora e Framboesa Leão 23G Caixa com 10Un",
+      "preco": "R$ 15,99"
+    },
+    {
+      "produto": "Chá Matte Leão Laranja Sachê 25Un",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Chá de Camomila Natural Life 10G Caixa 10 Un",
+      "preco": "R$ 7,35"
+    },
+    {
+      "produto": "Erva Mate para Terere Yacuy Sachê 500G",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Chá Dr Oetker Morango Silvestre Embalagem 10g",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Erva Mate Menta Black Uhde 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá Dr Oetker Maçã e Canela 10g",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Chá Leão Morango Sachê 10un",
+      "preco": "R$ 8,10"
+    },
+    {
+      "produto": "Chá Cold Brew de Pêssego Leão com 10un",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Erva Mate Uhde Terere Abacaxi Embalagem 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá Vitamínico Mel Gengibre e Cúrcuma Leão 20g Caixa com 10un",
+      "preco": "R$ 14,49"
+    },
+    {
+      "produto": "Erva Mate Sabor Menta e Limão Uhde 500g",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá Verde de Gengibre e Limão Leão 25g 10un",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Chá Verde Leão Reequilibra Hortelã e Limão Sachê 10un",
+      "preco": "R$ 11,09"
+    },
+    {
+      "produto": "Chá de Camomila Natural Life Pacote 50g",
+      "preco": "R$ 9,79"
+    },
+    {
+      "produto": "Chá Matte Leão com Canela Sachê 25Un",
+      "preco": "R$ 5,89"
+    },
+    {
+      "produto": "Chá Cheguei Menopausa Fases Leão 20G",
+      "preco": "R$ 13,45"
+    },
+    {
+      "produto": "Chá Preto Leão Frutas Vermelhas Sachê 10un",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Chá Xô Tpm Cereja, Morango e Baunilha Leão 20g",
+      "preco": "R$ 13,45"
+    },
+    {
+      "produto": "Chá Dr Oetker Abacaxi e Hortelã 10 Sachês",
+      "preco": "R$ 10,25"
+    },
+    {
+      "produto": "Chá Leãozinho Morango e Maracujá Leão 23G Caixa com 10Un",
+      "preco": "R$ 15,99"
+    },
+    {
+      "produto": "Chá Verde Natural Life 20G Caixa 10 Un",
+      "preco": "R$ 7,35"
+    },
+    {
+      "produto": "Erva Mate para Terere Yacuy Menta Ice Pacote 500G",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Cevada Torrada e Moída Natural Life 400g",
+      "preco": "R$ 9,39"
+    },
+    {
+      "produto": "Erva Mate Padrão Tradicional Chimarrão Gaucho 500g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Erva Mate Menta e Boldo Uhde 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá Quentão com Gengibre Natural Life Caixa 15 Un",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Chá Preto Dr Oetker Embalagem 18G",
+      "preco": "R$ 5,75"
+    },
+    {
+      "produto": "Chá Mate Recarrega Sabor Guaraná Leão 16g 10un",
+      "preco": "R$ 11,09"
+    },
+    {
+      "produto": "Chá Ciclo Suave Fases Leão 20g",
+      "preco": "R$ 13,45"
+    },
+    {
+      "produto": "Chá Matte Leão Groselha Negra Sachê 10un",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Chá Leãozinho Laranja Cor de Rosa Leão 23G Caixa com 10Un",
+      "preco": "R$ 15,99"
+    },
+    {
+      "produto": "Chá Cold Brew Abacaxi e Hortelã Leão 10un",
+      "preco": "R$ 11,95"
+    },
+    {
+      "produto": "Chá Preto Reanima Laranja e Mel Leão Sachê 20g 10un",
+      "preco": "R$ 11,09"
+    },
+    {
+      "produto": "Chá Leão Maçã e Canela Sachê 10un",
+      "preco": "R$ 10,15"
+    },
+    {
+      "produto": "Chá Fases Mamãe Serena Leão 20G",
+      "preco": "R$ 13,45"
+    },
+    {
+      "produto": "Erva Mate para Tereré Yacuy Natural Pacote 500G",
+      "preco": "R$ 10,55"
+    },
+    {
+      "produto": "Erva Mate para Tereré Yacuy Boldo e Menta Pacote 500G",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Erva Mate Yacuy Terere Abacaxi e Menta Pacote 500G",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Erva Mate Uhde Energy 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá de Capim-Cidreira Natural Life Pacote 50G",
+      "preco": "R$ 4,89"
+    },
+    {
+      "produto": "Erva Mate Tereré Sabor Ice Mentol Uhde 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Erva Mate Sabor Limão Uhde 500G",
+      "preco": "R$ 15,80"
+    },
+    {
+      "produto": "Chá de Frutas Vermelhas Natural Life Embalagem 30G",
+      "preco": "R$ 13,10"
+    },
+    {
+      "produto": "Erva Mate Yacuy Açaí e Menta Embalagem 500G",
+      "preco": "R$ 12,59"
+    },
+    {
+      "produto": "Chá Verde Kodilar com Gengibre Embalagem 22,5G",
+      "preco": "R$ 10,60"
+    },
+    {
+      "produto": "Chá Kodilar Hibisco Pacote 15G",
+      "preco": "R$ 5,70"
+    },
+    {
+      "produto": "Capsula de Chá Camomila 3 Corações Com 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Chá Maracujá com Camomila Natural Life 15G Caixa 15 Un",
+      "preco": "R$ 9,79"
+    },
+    {
+      "produto": "Chá Dr Oetker Mate Tostado Pacote 15G",
+      "preco": "R$ 4,29"
+    },
+    {
+      "produto": "Cha Leao C 10 2G Sc Pessego",
+      "preco": "R$ 15,59"
+    },
+    {
+      "produto": "Cápsula Chá de Erva Doce 3 Corações 10un",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Chá Natural Life Erva-Doce 60g",
+      "preco": "R$ 9,30"
+    },
+    {
+      "produto": "Chá de Açaí e Guaraná Leão 20g",
+      "preco": "R$ 14,49"
+    },
+    {
+      "produto": "Chá Vitamínico Sabor Laranja e Cenoura Leão 10un",
+      "preco": "R$ 14,49"
+    },
+    {
+      "produto": "Chá Instantâneo Lipo Tea Sabor Limão Mixnutri 5g 15 Sachês",
+      "preco": "R$ 26,79"
+    },
+    {
+      "produto": "Chá Prebiótico Clean Tea Frutas Vermelhas Mix Nutri 75g",
+      "preco": "R$ 26,65"
+    },
+    {
+      "produto": "Anis Estrelado   Kg",
+      "preco": "R$ 67,90 kg"
+    }
+  ],
+  "mel-e-geleias": [
+    {
+      "produto": "Geléia de Pimenta Homemade Gourmet Vidro 320g",
+      "preco": "R$ 22,85"
+    },
+    {
+      "produto": "Geleia Classic Morango Queensberry 320g",
+      "preco": "R$ 29,99"
+    },
+    {
+      "produto": "Geleia de Morango Diet Queensberry 280g",
+      "preco": "R$ 30,99"
+    },
+    {
+      "produto": "Geléia Homemade Amora Vidro 320g",
+      "preco": "R$ 29,89"
+    },
+    {
+      "produto": "Geleia Classic Amora Queensberry 320g",
+      "preco": "R$ 29,99"
+    },
+    {
+      "produto": "Geléia Homemade Morango Vidro 320g",
+      "preco": "R$ 29,89"
+    },
+    {
+      "produto": "Geleia de Frutas Vermelhas Queensberry 280g",
+      "preco": "R$ 25,90 R$ 30,99"
+    },
+    {
+      "produto": "Geléia Queensberry Classic Frutas Vermelhas Vidro 320g",
+      "preco": "R$ 31,65"
+    },
+    {
+      "produto": "Geleia Sabor Pêssego Olé 230g",
+      "preco": "R$ 7,59"
+    },
+    {
+      "produto": "Glucose de Milho Karo Embalagem 350g",
+      "preco": "R$ 21,75"
+    },
+    {
+      "produto": "Geleia Gourmet Pimenta Vermelha Queensberry 320g",
+      "preco": "R$ 24,15"
+    },
+    {
+      "produto": "Geléia Framboesa Stella D'oro 230G",
+      "preco": "R$ 9,10"
+    },
+    {
+      "produto": "Geleia de Amora Olé 230G",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Geléia Stella Doro Morango Copo 230g",
+      "preco": "R$ 9,65"
+    },
+    {
+      "produto": "Geleia Sabor Goiaba 230G",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Geléia Stella Doro Uva Copo 230g",
+      "preco": "R$ 8,15"
+    },
+    {
+      "produto": "Geleia Sabor Morango Olé 230G",
+      "preco": "R$ 10,85"
+    },
+    {
+      "produto": "Geléia de Mirtilo Queensberry Vidro 320g",
+      "preco": "R$ 29,99"
+    },
+    {
+      "produto": "Mel Cercopa Embalagem 480G",
+      "preco": "R$ 27,90"
+    },
+    {
+      "produto": "Geleia de Goiaba Stella D'oro 230G",
+      "preco": "R$ 8,15"
+    },
+    {
+      "produto": "Geléia de Frutas Catuna Cubos Pote 250G",
+      "preco": "R$ 8,15"
+    },
+    {
+      "produto": "Geleia Framboesa Olé 230g",
+      "preco": "R$ 17,49"
+    },
+    {
+      "produto": "Geléia Stella Doro Amora Copo 230G",
+      "preco": "R$ 9,45"
+    },
+    {
+      "produto": "Mel Cercopa 1Kg",
+      "preco": "R$ 47,19"
+    },
+    {
+      "produto": "Mel Cercopa Embalagem 250G",
+      "preco": "R$ 17,15"
+    },
+    {
+      "produto": "Mel Cercopa Embalagem 500G",
+      "preco": "R$ 27,90"
+    },
+    {
+      "produto": "Geléia de Frutas Catuna Embalagem 400G",
+      "preco": "R$ 9,99"
+    }
+  ],
+  "paes-congelados": [
+    {
+      "produto": "Pão de Queijo Coquetel Tradição de Minas 1kg",
+      "preco": "R$ 14,65"
+    },
+    {
+      "produto": "Pão de Queijo Tradicional Aurora 400g",
+      "preco": "R$ 8,70"
+    },
+    {
+      "produto": "Pão de Queijo Rancho Alegre 1kg",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Pão de Queijo Congelado Tradicional São Geraldo 800g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão de Queijo Coquetel Forno de Minas,  400g",
+      "preco": "R$ 18,25"
+    },
+    {
+      "produto": "Pão de Queijo Tradicional Aurora 1kg",
+      "preco": "R$ 19,99"
+    },
+    {
+      "produto": "Pão de Alho Tradicional Santa Massa 400g",
+      "preco": "R$ 14,49"
+    },
+    {
+      "produto": "Pão de Queijo Raízes Itália 400G",
+      "preco": "R$ 12,29"
+    },
+    {
+      "produto": "Pão de Queijo Recheado Frango Tradição Minas 350g",
+      "preco": "R$ 13,99"
+    },
+    {
+      "produto": "Pão de Alho Mezzani Tradicional Pacote 310g",
+      "preco": "R$ 13,35"
+    },
+    {
+      "produto": "Pão de Queijo Congelado Tradicional Forno de Minas Pacote 400g",
+      "preco": "R$ 18,25"
+    },
+    {
+      "produto": "Pão de Queijo Tradicional Tradição Minas 400G",
+      "preco": "R$ 6,35"
+    },
+    {
+      "produto": "Pão de Queijo São Geraldo 800g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Pão de Alho Santa Massa Tradicional 240G",
+      "preco": "R$ 10,39"
+    },
+    {
+      "produto": "Pão de Queijo Lanche Massaleve Pacote 1kg",
+      "preco": "R$ 23,49"
+    },
+    {
+      "produto": "Pão de Queijo Coquetel Rancho Alegre 1kg",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Pão de Alho Tradicional Aurora 340G",
+      "preco": "R$ 10,45"
+    },
+    {
+      "produto": "Pão de Queijo Congelado Tradicional Forno de Minas 820G",
+      "preco": "R$ 26,25"
+    },
+    {
+      "produto": "Pao de Queijo Massa Leve 400g Tradicional",
+      "preco": "R$ 10,79"
+    },
+    {
+      "produto": "Pão de Queijo Lanche Primor 900G",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Pão de Queijo Tradicional Primor 300G",
+      "preco": "R$ 4,35"
+    },
+    {
+      "produto": "Pão de Queijo Congelado Coquetel Forno de Minas 820G",
+      "preco": "R$ 26,25"
+    },
+    {
+      "produto": "Pão Caseiro Congelado Grespan Embalagem 450G",
+      "preco": "R$ 5,99"
+    },
+    {
+      "produto": "Pão de Alho com Calabresa Gourmet Massa da Feira 400G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Pão de Queijo Duduxo Lanche 1kg",
+      "preco": "R$ 12,49"
+    },
+    {
+      "produto": "Pão de Queijo Recheado Doce de Leite Tradição Minas 350g",
+      "preco": "R$ 13,50"
+    },
+    {
+      "produto": "Pão de Alho Levemente Picante Santa Massa 400g",
+      "preco": "R$ 14,49"
+    },
+    {
+      "produto": "Pão de Queijo Seara Turma da Mônica 400g",
+      "preco": "R$ 8,99"
+    },
+    {
+      "produto": "Pão de Queijo Raizes Itália Embalagem 800G",
+      "preco": "R$ 23,19"
+    },
+    {
+      "produto": "Pão de Queijo Premium Tradição Minas 1kg",
+      "preco": "R$ 22,15"
+    },
+    {
+      "produto": "Pão de Alho Santa Massa Tradicional Pacote 240Gramas",
+      "preco": "R$ 10,39"
+    },
+    {
+      "produto": "Pão de Queijo Requeijão Tradição Minas 350G",
+      "preco": "R$ 11,99 R$ 13,99"
+    },
+    {
+      "produto": "Pão de Alho Gourmet Massa da Feira 310G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Pão de Queijo Duduxo Coquetel 1kg",
+      "preco": "R$ 12,49"
+    },
+    {
+      "produto": "Pão De Queijo Tradicional Premium Tradição De Minas 800G",
+      "preco": "R$ 17,10"
+    },
+    {
+      "produto": " Pão de Queijo Tradicional Jopanas 800gr",
+      "preco": "R$ 15,50"
+    },
+    {
+      "produto": "Pão de Alho Raizes da Italia Picante 400G",
+      "preco": "R$ 15,25"
+    },
+    {
+      "produto": "Pão Alho com Pimenta Gourmet Massa da Feira 400G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Pão de Alho Tradicional Massa da Feira 310G",
+      "preco": "R$ 10,65"
+    },
+    {
+      "produto": "Pão de Queijo Gourmet Super Lanche Tradição Minas 1Kg",
+      "preco": "R$ 14,65"
+    }
+  ],
+  "hamburgueres": [
+    {
+      "produto": "Hambúrguer Rezende 56g",
+      "preco": "R$ 1,09"
+    },
+    {
+      "produto": "Hambúrguer Texas Burger Seara 672g",
+      "preco": "R$ 18,99"
+    },
+    {
+      "produto": "Hambúrguer Misto Sadia 56G",
+      "preco": "R$ 1,49"
+    },
+    {
+      "produto": "Hambúrguer Misto Perdigão Defumado Caixa 672g",
+      "preco": "R$ 15,99 R$ 18,90"
+    },
+    {
+      "produto": "Hambúrguer Faroeste Burguer Aurora 56g",
+      "preco": "R$ 1,35"
+    },
+    {
+      "produto": "Texas Burger 56g",
+      "preco": "R$ 1,39"
+    },
+    {
+      "produto": "Faroeste Burger Aurora 672g",
+      "preco": "R$ 17,75"
+    },
+    {
+      "produto": "Lanche X Faroeste Cheddar com Cebola Caramelizada Aurora 145G",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Hambúrguer de Carne Bovina Aurora 90g",
+      "preco": "R$ 2,85"
+    },
+    {
+      "produto": "Hambúrguer Perdigão Frango Embalagem 56G",
+      "preco": "R$ 1,49 R$ 1,65"
+    },
+    {
+      "produto": "Hambúrguer Misto Frimesa 56G",
+      "preco": "R$ 1,95"
+    },
+    {
+      "produto": "Hambúrguer Tradicional Sadia 672g",
+      "preco": "R$ 21,49"
+    },
+    {
+      "produto": "Hambúrguer de Carne Bovina Aurora 672g",
+      "preco": "R$ 18,69 R$ 21,75"
+    },
+    {
+      "produto": "Hambúrguer de Carne de Frango E Bovina Perdigão 12un",
+      "preco": "R$ 18,90"
+    },
+    {
+      "produto": "Hambúrguer Bovino Frimesa Unidade 56G",
+      "preco": "R$ 2,39"
+    },
+    {
+      "produto": "Hambúrguer Carne de Frango E Bovina Perdigão 56g",
+      "preco": "R$ 1,29 R$ 1,55"
+    },
+    {
+      "produto": "Hambúrguer de Frango Perdigão Caixa 672g",
+      "preco": "R$ 17,99"
+    },
+    {
+      "produto": "Texas Burger Frango 56g",
+      "preco": "R$ 1,39"
+    },
+    {
+      "produto": "Texas Burger 90g",
+      "preco": "R$ 2,15"
+    },
+    {
+      "produto": "Hambúrguer Frimesa Carne Suína Embalagem 56G",
+      "preco": "R$ 1,95"
+    },
+    {
+      "produto": "Hambúrguer Aurora Bovino Embalagem 90G",
+      "preco": "R$ 2,85"
+    }
+  ],
+  "aperitivos-e-empanados": [
+    {
+      "produto": "Nuggets Sadia Crocante 300g",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Frango Empanado Copacol Tirinhas Pacote 300g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Kibe com Requeijão Oyshi 300G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Empanado Chicken Supreme Seara 300g",
+      "preco": "R$ 9,45"
+    },
+    {
+      "produto": "Tekitos Seara 1kg",
+      "preco": "R$ 18,45 R$ 22,65"
+    },
+    {
+      "produto": "Steak Tradicional Seara 100g ",
+      "preco": "R$ 1,59"
+    },
+    {
+      "produto": "Filezinho de Frango Empanado Baita 1kg",
+      "preco": "R$ 34,75"
+    },
+    {
+      "produto": "Tirinhas de Frango Congeladas Aurora 900g",
+      "preco": "R$ 19,29"
+    },
+    {
+      "produto": "Empanado Tirinhas Aurora 270g ",
+      "preco": "R$ 6,65"
+    },
+    {
+      "produto": "Empanado Big Chicken Frango com Queijo Perdigão 1kg",
+      "preco": "R$ 31,55"
+    },
+    {
+      "produto": "Empanado Frango Perdigão Big Chicken 1kg Tradicional",
+      "preco": "R$ 31,55"
+    },
+    {
+      "produto": "Filezinho Empanado Crocante Seara 400g",
+      "preco": "R$ 18,99"
+    },
+    {
+      "produto": "Empanados de Frango Nuggets Tradicional Aurora 275g",
+      "preco": "R$ 7,39"
+    },
+    {
+      "produto": "Tekitos Tradicional Seara 300g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Filezinho de Frango Empanado Copacol Embalagem 1,5kg",
+      "preco": "R$ 49,99"
+    },
+    {
+      "produto": "Mini Chicken Tradicional Perdigão 275g",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Empanado de Frango Tradicional Nuggets Sadia 300G",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Salgados Oyshi Bolinha Queijo 300G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Coxinha de Carne Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Empanado Crocante Auroggets Aurora 275g ",
+      "preco": "R$ 7,39"
+    },
+    {
+      "produto": "Mini Kibe Congelado Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Nuggets de Frango com Queijo Sadia 300G",
+      "preco": "R$ 10,99"
+    },
+    {
+      "produto": "Empanado Presunto E Queijo Seara 110g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Empanado de Frango Steak Sadia 100g",
+      "preco": "R$ 2,29"
+    },
+    {
+      "produto": "Steak Aurora 100G",
+      "preco": "R$ 1,99"
+    },
+    {
+      "produto": "Empanado de Frango Auroggets Kids Sabor Cenoura Aurora 275g",
+      "preco": "R$ 8,99"
+    },
+    {
+      "produto": "Nuggets De Frango Auroggets Tradicional Aurora 900g",
+      "preco": "R$ 21,45"
+    },
+    {
+      "produto": "Mini Chicken Perdigão com Queijo 275G",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Coxinha de Mandioca com Costela Oyshi Embalagem 300G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Coxinha de Frango Oyshi 300G",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Empanado de Queijo Auroggets Aurora 275g",
+      "preco": "R$ 7,39"
+    },
+    {
+      "produto": "Empanado Chicken Crispy Tradicional Seara 300g",
+      "preco": "R$ 9,45"
+    },
+    {
+      "produto": "Iscas de Frago Empanada Crocante Aurora 275g",
+      "preco": "R$ 10,75"
+    },
+    {
+      "produto": "Steak Empanado de Frango Perdigão 100g",
+      "preco": "R$ 2,19"
+    },
+    {
+      "produto": "Steak de Frango Queijo Seara 100g",
+      "preco": "R$ 1,59"
+    },
+    {
+      "produto": "Tirinhas de Frango Tradicional Perdigão 300g",
+      "preco": "R$ 9,25"
+    },
+    {
+      "produto": "Anéis de Cebola Bem Brasil 400g",
+      "preco": "R$ 15,90"
+    },
+    {
+      "produto": "Empanado Tirinhas de Frango Perdigão 1kg",
+      "preco": "R$ 27,99"
+    },
+    {
+      "produto": "Gelo para Drink Morango Coco Leve 200ml",
+      "preco": "R$ 3,00"
+    },
+    {
+      "produto": "Iscas de Frango Empanadas no Estilo Tempura Aurora 275g",
+      "preco": "R$ 10,75"
+    },
+    {
+      "produto": "Empanado Chicken Crispy Provolone Seara 300g",
+      "preco": "R$ 9,45"
+    },
+    {
+      "produto": "Empanado Feito com Peito de Frango e Recheado com Presunto Levíssimo Seara e Mussarela 110g",
+      "preco": "R$ 4,79"
+    },
+    {
+      "produto": "Filezinho de Frango Empanado Congelado Copacol 700g",
+      "preco": "R$ 31,19"
+    },
+    {
+      "produto": "Iscas de Filé de Tilápia Empanadas Copacol 300g",
+      "preco": "R$ 23,55"
+    },
+    {
+      "produto": "Pastel de Queijo Aurora 350G",
+      "preco": "R$ 14,99"
+    },
+    {
+      "produto": "Sanduíche Faroeste X-Burguer com Molho Especial Aurora 145g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Tekitos Tradicional",
+      "preco": "R$ 41,90 R$ 53,49"
+    },
+    {
+      "produto": "Auroggets Congelado Crocante Aurora 900g",
+      "preco": "R$ 21,45"
+    },
+    {
+      "produto": "Polenta Palito Tradicional Amai 600g",
+      "preco": "R$ 10,15"
+    },
+    {
+      "produto": "Tekitos Queijo E Orégano 1kg",
+      "preco": "R$ 18,45 R$ 22,65"
+    },
+    {
+      "produto": "Gelo para Drink com Sabor Melância Coco Leve 190g",
+      "preco": "R$ 3,00"
+    },
+    {
+      "produto": "Tilápia Empanada Copacol Tirinhas Pacote 1,5 Kg",
+      "preco": "R$ 37,90"
+    },
+    {
+      "produto": "Gelo para Drink Sabor Limão Coco Leve 200ml",
+      "preco": "R$ 3,00"
+    },
+    {
+      "produto": "Steak de Frango Sadia Embalagem 100g",
+      "preco": "R$ 2,29"
+    },
+    {
+      "produto": "Coxinha Frango Congelada Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Empanado de Frango Queijo e Orégano Tekitos Seara 300g",
+      "preco": "R$ 7,99"
+    },
+    {
+      "produto": "Coxinha de Cabotia e Carne Seca Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Empanados Tradicional Turma da Mônica Seara 300g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Empanado Chicken Provolone Seara 300g",
+      "preco": "R$ 11,99"
+    },
+    {
+      "produto": "Mini Coxinha de Costela Jopanas 450G",
+      "preco": "R$ 12,99 R$ 14,75"
+    },
+    {
+      "produto": "Steak de Frango Rezende 100g",
+      "preco": "R$ 1,59"
+    },
+    {
+      "produto": "Linguiça Cuiabana Lombo Queijo Compadre 800g ",
+      "preco": "R$ 29,59 R$ 31,99"
+    },
+    {
+      "produto": "Coxinha Congelada Frango Raizes Itália 500G",
+      "preco": "R$ 15,75"
+    }
+  ],
+  "vegetais-congelados": [
+    {
+      "produto": "Brócolis Congelado Sadia Veg & Tal 300g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Seleta Legumes Veg&Tal Sadia 300g",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Batata Pré Frita Tradicional Mais Batata Bem Brasil 2kg",
+      "preco": "R$ 29,99"
+    },
+    {
+      "produto": "Mix de Vegetais Congelado Sadia 300G",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Batata Pré-Frita Corte Fino Mccain 1,05kg",
+      "preco": "R$ 20,99"
+    },
+    {
+      "produto": "Ervilha Congelada Veg&Tal Sadia Pacote 300G",
+      "preco": "R$ 5,49"
+    },
+    {
+      "produto": "Batata Palito Congelada Rezende 400g",
+      "preco": "R$ 11,15"
+    },
+    {
+      "produto": "Brócolis Florete Congelado Nature Seara 300g",
+      "preco": "R$ 7,10"
+    },
+    {
+      "produto": "Seleta Mista Congelada Seara 300g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Batata Pré Frita Crinkle Bem Brasil 1,05kg",
+      "preco": "R$ 24,99"
+    },
+    {
+      "produto": "Batata Pré Frita Extra Crocante Airfryer Congelada Mccain 600g",
+      "preco": "R$ 18,99"
+    },
+    {
+      "produto": "Batata Pré Frita Mais Batata Bem Brasil 1,5Kg",
+      "preco": "R$ 19,99 R$ 21,90"
+    },
+    {
+      "produto": "Batata Congelada Tradicional Bem Brasil 1,050kg",
+      "preco": "R$ 25,25"
+    },
+    {
+      "produto": "Couve Flor Veg&Tal Sadia 300Gr",
+      "preco": "R$ 4,99"
+    },
+    {
+      "produto": "Batata Palito Seara 2kg",
+      "preco": "R$ 39,99"
+    },
+    {
+      "produto": "Batata Palito Pre-frita Congelada Sadia 1.05kg ",
+      "preco": "R$ 25,45"
+    },
+    {
+      "produto": "Batata Tradicional Bem Brasil 400G",
+      "preco": "R$ 10,49"
+    },
+    {
+      "produto": "Batata Pré-Frita Tradicional Congelada Mccain Tamanho Família",
+      "preco": "R$ 33,99"
+    },
+    {
+      "produto": "Salada Verão Daucy Embalagem 1kg",
+      "preco": "R$ 22,75"
+    },
+    {
+      "produto": "Batata Congelada Tradicional Mccain 720g",
+      "preco": "R$ 18,99"
+    },
+    {
+      "produto": "Batata Pré-Frita Smiles Mc Cain 400g",
+      "preco": "R$ 13,50"
+    },
+    {
+      "produto": "Brócolis Florete Congelado Daucy Embalagem 1kg",
+      "preco": "R$ 21,00"
+    },
+    {
+      "produto": "Brócolis Florete Congelado Daucy Pacote 300g",
+      "preco": "R$ 6,99"
+    },
+    {
+      "produto": "Ervilha Congelada Daucy 300g",
+      "preco": "R$ 8,15"
+    },
+    {
+      "produto": "Batata Palito Aurora 2kg",
+      "preco": "R$ 34,99"
+    },
+    {
+      "produto": "Ervilha Congelada Seara Nature 300g",
+      "preco": "R$ 7,85"
+    },
+    {
+      "produto": "Mandioca Congelada Sadia Veg&Tal 900G",
+      "preco": "R$ 12,75"
+    },
+    {
+      "produto": "Batata Congelada Corte Especial Bem Brasil 1,05kg",
+      "preco": "R$ 23,30"
+    },
+    {
+      "produto": "Batata Carinhas Bem Brasil 400g",
+      "preco": "R$ 8,99"
+    },
+    {
+      "produto": "Batata Palito Aurora 400G",
+      "preco": "R$ 9,99"
+    },
+    {
+      "produto": "Ervilha Congelada Daucy Embalagem 1kg",
+      "preco": "R$ 26,10"
+    },
+    {
+      "produto": "Seleta Mista Congelada Seara Nature 1,05kg",
+      "preco": "R$ 21,49"
+    },
+    {
+      "produto": "Batata Pré-Frita Potato Pops Congelada Sabor Calabresa e Bacon Mccain 400g",
+      "preco": "R$ 17,55"
+    },
+    {
+      "produto": "Batata Pré Frita Fininhas Bem Batata Bem Brasil 700g",
+      "preco": "R$ 18,90"
+    },
+    {
+      "produto": "Mistura 4 Legumes Congelada Daucy Pacote 300g",
+      "preco": "R$ 8,39"
+    },
+    {
+      "produto": "Batata Congelada Bem Brasil Bem Batata Seleção Especial Pré Frita Pacote 700G",
+      "preco": "R$ 19,35"
+    },
+    {
+      "produto": "Brócolis Florete Congelado Seara Nature 1,05kg",
+      "preco": "R$ 19,90"
+    },
+    {
+      "produto": "Mistura 4 Legumes Daucy Pacote 1kg",
+      "preco": "R$ 23,35"
+    },
+    {
+      "produto": "Anéis de Cebola Copacol Pacote 1,1kg",
+      "preco": "R$ 32,45"
+    },
+    {
+      "produto": "Batata Palito Seara 400g",
+      "preco": "R$ 12,99"
+    },
+    {
+      "produto": "Salada Verão Daucy Congelada Pacote 300g",
+      "preco": "R$ 7,25"
+    },
+    {
+      "produto": "Batata Formatos Seara Turma da Mônica 400g",
+      "preco": "R$ 13,65"
+    },
+    {
+      "produto": "Jiló BDJA Embalado",
+      "preco": "R$ 5,45"
+    }
   ]
 }

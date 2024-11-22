@@ -3,42 +3,30 @@ import { ref } from "vue";
 import productsJson from "./api/data/products.json";
 
 const products = ref([]);
-const filteredProducts = ref([]);
+const searchTerm = ref('');
 
 const formatPrice = (price) => {
     const match = price.match(/(\d+(?:,\d+)?)/);
-    return match ? `${parseFloat(match[1].replace(",", "."))}` : `${parseFloat(price)}`;
+    return match
+        ? `${parseFloat(match[1].replace(",", "."))}`
+        : `${parseFloat(price)}`;
 };
-
-for (const product in productsJson) {
-    for (const item in productsJson[product]) {
-        const formattedItem = {
-            produto: productsJson[product][item].produto,
-            preco: formatPrice(productsJson[product][item].preco),
-        };
-        console.log(formattedItem);
-        products.value.push(formattedItem);
-    }
-}
 
 if (localStorage.getItem("products") === null) {
-    localStorage.setItem("products", JSON.stringify(products.value));
-}
-
-const filterProducts = () => {
-    const searchTerm = document.querySelector("input").value.toLowerCase();
-    if (searchTerm.length >= 3) {
-        filteredProducts.value = products.value.filter((product) =>
-            product.produto.toLowerCase().includes(searchTerm)
-        );
-        localStorage.setItem(
-            "filteredProducts",
-            JSON.stringify(filteredProducts.value)
-        );
-    } else {
-        filteredProducts = [];
+    for (const product in productsJson) {
+        for (const item in productsJson[product]) {
+            const formattedItem = {
+                produto: productsJson[product][item].produto,
+                preco: formatPrice(productsJson[product][item].preco),
+            };
+            products.value.push(formattedItem);
+        }
     }
-};
+
+    localStorage.setItem("products", JSON.stringify(products.value));
+} else {
+    products.value = JSON.parse(localStorage.getItem("products"));
+}
 </script>
 
 <template>
@@ -46,21 +34,18 @@ const filterProducts = () => {
         type="text"
         v-model="searchTerm"
         placeholder="Search products..."
-        @input="filterProducts"
     />
-    <div v-if="filteredProducts.length === 0" class="product-grid">
-        <div v-for="product in products" class="card">
+    <div class="product-grid">
+        <div v-if="searchTerm.length >= 3" v-for="product in products.filter((product) => product.produto.toLowerCase().includes(searchTerm.toLowerCase()))" class="card">
             <h3>{{ product.produto }}</h3>
             <p>R$ {{ product.preco }}</p>
             <button @click="() => console.log(product.preco)">
                 Learn More
             </button>
         </div>
-    </div>
-    <div v-else class="product-grid">
-        <div v-for="product in filteredProducts" class="card">
+        <div v-else v-for="product in products" class="card">
             <h3>{{ product.produto }}</h3>
-            <p>{{ product.preco }}</p>
+            <p>R$ {{ product.preco }}</p>
             <button @click="() => console.log(product.preco)">
                 Learn More
             </button>
@@ -69,6 +54,15 @@ const filterProducts = () => {
 </template>
 
 <style scoped>
+input {
+    margin-bottom: 1rem;
+    width: 80%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
 .product-grid {
     gap: 2rem;
     display: grid;
